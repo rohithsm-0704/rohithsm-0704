@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi 👋, I’m Rohith  
+## Hi World 👋  I’m Rohith  
 
 I work with data to understand problems, find patterns, and support better business decisions.  
 My focus is on turning raw, messy data into insights that are easy to explain and actually useful.
