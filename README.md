@@ -1,16 +1,15 @@
 ## Hi there 👋
+Hi 👋, I’m Rohith  
 
-<!--
-**rohithsm-0704/rohithsm-0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with data to understand problems, find patterns, and support better business decisions.  
+My focus is on turning raw, messy data into insights that are easy to explain and actually useful.
 
-Here are some ideas to get you started:
+I regularly use **SQL** to explore and transform data (joins, CTEs, window functions, aggregations),  
+**Python** for data cleaning and analysis, and **Excel / BI tools** to communicate insights through clear dashboards and reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I care more about asking the right questions and delivering clarity than building overly complex solutions.  
+If an insight can’t be explained simply, it’s not finished yet.
+
+- 📫 How to reach me: smrohith@gmail.com
+- 👨‍💻 All my projects are available at : https://github.com/rohithsm-0704
 -->
